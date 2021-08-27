@@ -1,4 +1,4 @@
-1. Создайте fork репозитория https://github.com/MyITschool/Interview05 в своём аккаунте на github.com
+1. Создайте fork репозитория https://github.com/MyITschool/Interview23 в своём аккаунте на github.com
 2. Выполните следующие задания
 
 Задание 1
@@ -43,4 +43,4 @@ index.html содержит графическое изображение окр
 
 index.js файл содержит функции, которые необходимыми для реализации анимации и функция getCoordinates (int time), которую необходимо реализовать
 
-3. Создайте pull request в ветку master репозитория https://github.com/MyITschool/Interview05.
+3. Создайте pull request в ветку master репозитория https://github.com/MyITschool/Interview23.
