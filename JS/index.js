@@ -50,7 +50,12 @@ function init() {
      */
     function getCoordinates(time) {
         // TODO: implement body of this function
-        return [0.0, 1.0];
+       // alert(time);
+        var coordinateX = Math.cos(time);
+      //  alert(coordinateX);
+        var coordinateY = Math.sin(time);
+       // alert(coordinateY);
+        return [coordinateY, coordinateX];
     }
 
     /**
