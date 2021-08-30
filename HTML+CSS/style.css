@@ -1,0 +1,17 @@
+#div1{
+    background-color: lightblue;
+    width: 200px;
+    padding: 25px;
+    margin: 25px;
+    border: navy 25px solid;
+    float: left;
+}
+
+#div2{
+    background-color: indianred;
+    width: 200px;
+    padding: 25px;
+    margin: 25px;
+    border: fuchsia 25px solid;
+    float: left;
+}
